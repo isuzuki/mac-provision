@@ -7,17 +7,23 @@ homebrew_cask_packages:
   - name: google-chrome
   - name: google-japanese-ime
   - name: slack
-  - name: vagrant
-  - name: virtualbox
   - name: visual-studio-code
+  - name: minikube
 
 homebrew_packages:
   - name: ansible
   - name: awscli
+  - name: colordiff
   - name: docker-compose
-  - name: hub
   - name: git
-  - name: mysql
-  - name: postgresql
-  - name: protobuf
-  - name: rbenv
+  - name: git-secrets
+  - name: go
+  - name: jq
+  - name: kubectl
+  - name: massren
+  - name: peco
+  - name: pstree
+  - name: php
+  - name: scala
+  - name: sbt
+  - name: terraform
