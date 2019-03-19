@@ -7,6 +7,8 @@ homebrew_cask_packages:
   - name: docker
   - name: google-chrome
   - name: google-japanese-ime
+  # https://qiita.com/seijikohara/items/56cc4ac83ef9d686fab2
+  - name: java8
   - name: minikube
   - name: slack
   - name: station
