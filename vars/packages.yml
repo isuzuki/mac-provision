@@ -28,6 +28,7 @@ homebrew_packages:
   - name: peco
   - name: pstree
   - name: php
+  - name: rust
   - name: scala
   - name: sbt
   - name: terraform
