@@ -3,6 +3,7 @@ homebrew_taps:
   - caskroom/versions
 
 homebrew_cask_packages:
+  - name: alacritty
   - name: alfred
   - name: docker
   - name: google-chrome
