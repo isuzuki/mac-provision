@@ -8,3 +8,8 @@
 ```
 ansible-playbook packages.yml
 ```
+
+#### provisioning not using brew
+```
+./provision.sh
+```
