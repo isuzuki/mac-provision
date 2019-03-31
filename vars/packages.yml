@@ -9,8 +9,11 @@ homebrew_cask_packages:
   - name: google-chrome
   - name: google-japanese-ime
   # https://qiita.com/seijikohara/items/56cc4ac83ef9d686fab2
+  - name: intellij-idea-ce
   - name: java8
   - name: minikube
+  - name: phpstorm
+  - name: pycharm
   - name: slack
   - name: station
   - name: visual-studio-code
