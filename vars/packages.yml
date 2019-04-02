@@ -11,6 +11,8 @@ homebrew_cask_packages:
   # https://qiita.com/seijikohara/items/56cc4ac83ef9d686fab2
   - name: intellij-idea-ce
   - name: java8
+  # https://qiita.com/kunit/items/f6ec7e159d93002bfc48
+  - name: karabiner-elements
   - name: minikube
   - name: phpstorm
   - name: pycharm
