@@ -25,15 +25,22 @@ homebrew_packages:
   - name: awscli
   - name: colordiff
   - name: docker-compose
+  - name: fish
+  - name: fzf
   - name: git
+  - name: git-crypt
   - name: git-secrets
   - name: go
+  - name: graphviz
   - name: jq
   - name: kubectl
   - name: massren
-  - name: peco
-  - name: pstree
   - name: php
+  - name: protobuf
+  - name: pstree
+  - name: ripgrep
   - name: scala
   - name: sbt
   - name: terraform
+  - name: tmux
+  - name: yarn
