@@ -1,6 +1,7 @@
 homebrew_taps:
   - caskroom/cask
   - caskroom/versions
+  - wata727/tflint
 
 homebrew_cask_packages:
   - name: alacritty
@@ -42,5 +43,6 @@ homebrew_packages:
   - name: scala
   - name: sbt
   - name: terraform
+  - name: tflint
   - name: tmux
   - name: yarn
