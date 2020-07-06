@@ -33,9 +33,11 @@ homebrew_packages:
   - name: git-secrets
   - name: go
   - name: graphviz
+  - name: hadolint
   - name: jq
   - name: kubectl
   - name: massren
+  - name: nektos/tap/act
   - name: php
   - name: protobuf
   - name: pstree
