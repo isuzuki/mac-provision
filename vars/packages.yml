@@ -28,6 +28,7 @@ homebrew_packages:
   - name: docker-compose
   - name: fish
   - name: fzf
+  - name: gh
   - name: git
   - name: git-crypt
   - name: git-secrets
